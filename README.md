@@ -46,7 +46,7 @@
 # ⚙️ Requirements
     OS: UNIX-based (Linux, macOS).
     Compiler: GCC or similar.
-    Standard C libraries.
+    Standard C libraries (e.g: readline).
 
 # 👤 Author
     [KOlani Biman / b-kolani]
